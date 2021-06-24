@@ -2,6 +2,10 @@
 
 A hands-free web-based game where you use your nose to hit the targets, and your voice to start and end the game. Easy.
 
+## Demo
+
+Play the demo at [https://davekelly.github.io/Nose-Warrior/](https://davekelly.github.io/Nose-Warrior/)
+
 ## Background 
 Created by [David Kelly](http://www.davidkelly.ie) at ITP Camp, 2021. 
 
